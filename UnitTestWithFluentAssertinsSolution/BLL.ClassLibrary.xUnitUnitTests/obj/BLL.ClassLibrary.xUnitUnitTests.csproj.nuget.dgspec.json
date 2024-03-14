@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj": {}
+    "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj": {
+    "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj",
+        "projectUniqueName": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj",
         "projectName": "BLL.ClassLibrary.xUnitUnitTests",
-        "projectPath": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj",
+        "projectPath": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\obj\\",
+        "outputPath": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj": {
-                "projectPath": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj"
+              "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj": {
+                "projectPath": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj": {
+    "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj",
+        "projectUniqueName": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj",
         "projectName": "BLL.ClassLibrary",
-        "projectPath": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj",
+        "projectPath": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\BLL.ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\obj\\",
+        "outputPath": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

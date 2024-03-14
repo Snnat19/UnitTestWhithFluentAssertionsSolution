@@ -1,0 +1,12 @@
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\bin\Debug\net8.0\BLL.ClassLibrary.deps.json
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\bin\Debug\net8.0\BLL.ClassLibrary.dll
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\bin\Debug\net8.0\BLL.ClassLibrary.pdb
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.AssemblyInfoInputs.cache
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.AssemblyInfo.cs
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.sourcelink.json
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.dll
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\refint\BLL.ClassLibrary.dll
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\BLL.ClassLibrary.pdb
+C:\UnitTestWhithFluentAssertionsSolution\UnitTestWithFluentAssertinsSolution\BLL.ClassLibrary\obj\Debug\net8.0\ref\BLL.ClassLibrary.dll

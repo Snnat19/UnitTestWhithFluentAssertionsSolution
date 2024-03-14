@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\UnitTestWithFluentAssertinsSolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE49075-E4E6-478C-9007-26CAC451D59E}|BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj|c:\\unittestwhithfluentassertionssolution\\unittestwithfluentassertinssolution\\bll.classlibrary.xunitunittests\\collectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE49075-E4E6-478C-9007-26CAC451D59E}|BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj|solutionrelative:bll.classlibrary.xunitunittests\\collectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728A92A7-432E-4DDF-B0CA-9CCEEC152AF3}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|c:\\unittestwhithfluentassertionssolution\\unittestwithfluentassertinssolution\\bll.classlibrary\\cadenatext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A92A7-432E-4DDF-B0CA-9CCEEC152AF3}|BLL.ClassLibrary\\BLL.ClassLibrary.csproj|solutionrelative:bll.classlibrary\\cadenatext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadenaText.cs",
+              "DocumentMoniker": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\CadenaText.cs",
+              "RelativeDocumentMoniker": "BLL.ClassLibrary\\CadenaText.cs",
+              "ToolTip": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary\\CadenaText.cs",
+              "RelativeToolTip": "BLL.ClassLibrary\\CadenaText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:38:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionTest.cs",
+              "DocumentMoniker": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\CollectionTest.cs",
+              "RelativeDocumentMoniker": "BLL.ClassLibrary.xUnitUnitTests\\CollectionTest.cs",
+              "ToolTip": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\CollectionTest.cs",
+              "RelativeToolTip": "BLL.ClassLibrary.xUnitUnitTests\\CollectionTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:34:30.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLL.ClassLibrary.xUnitUnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46178531844324de0f17819094f4d3e1a0468cd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLL.ClassLibrary.xUnitUnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLL.ClassLibrary.xUnitUnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

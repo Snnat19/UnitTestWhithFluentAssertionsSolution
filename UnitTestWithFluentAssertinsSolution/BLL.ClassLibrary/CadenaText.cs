@@ -4,7 +4,7 @@
     {
         public string Cadena()
         {
-            //Algorithm that processes text strings and returns a result
+            //Algoritmo que procesa cadenas de texto y devuelve un resultado.
 
             return "ABCDEFGHI";
         }

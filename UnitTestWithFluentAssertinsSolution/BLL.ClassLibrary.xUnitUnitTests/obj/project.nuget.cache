@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DLR2IgFISufxtmV5s91Gz0haiUBbpBJoOfRLspKyrc5XQ8ztWwJbWho1h8RmlMV+NlySyBIMjc0GpdbnXxkeNQ==",
+  "dgSpecHash": "UB//Qd/JDxDRMnE1+nDGRizQD6Uzhy6HYSjOnowupT4FZueyZjmtPcz8ZQwDuHNy/3xcHhkhWFU23KrDTg+3TQ==",
   "success": true,
-  "projectFilePath": "C:\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj",
+  "projectFilePath": "C:\\UnitTestWhithFluentAssertionsSolution\\UnitTestWithFluentAssertinsSolution\\BLL.ClassLibrary.xUnitUnitTests\\BLL.ClassLibrary.xUnitUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
