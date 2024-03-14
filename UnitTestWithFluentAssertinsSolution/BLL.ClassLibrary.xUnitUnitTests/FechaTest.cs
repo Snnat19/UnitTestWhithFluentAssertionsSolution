@@ -10,15 +10,15 @@ namespace BLL.ClassLibrary.xUnitUnitTests
 {
     public class FechaTest
     {
-        public void FechaTest_ShouldBe13Febrero2024At1132() 
+        public void FechaTest_ShouldBe13Marzo2024At1132() 
         {
             //Arrange
 
             //Act
-            var result = new DateTime(2024, 2, 11, 3, 28, 30);
+            var result = new DateTime(2024, 3, 13, 11, 38, 17); //ilegible
 
             //Assert
-            result.Should().Be(11.February(2024).At(3, 28, 30));
+            result.Should().Be(13.March(2024).At(11, 38, 17)); //comprensible
         }
     }
 }

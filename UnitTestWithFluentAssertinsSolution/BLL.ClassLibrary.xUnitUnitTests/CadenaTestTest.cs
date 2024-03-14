@@ -11,7 +11,7 @@ namespace BLL.ClassLibrary.xUnitUnitTests
             CadenaText objcadena = new CadenaText(); //instanciar la clase concreta
 
             //Act
-            var actaul = objcadena.Cadena();
+            var actaul = objcadena.Cadena(); //tener el valor que se retorna //objeto.metodo de cadenatext
 
             //Assert
             actaul.Should(). //metodo de AsserFluent
